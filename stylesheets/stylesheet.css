@@ -81,7 +81,7 @@ footer {
 
 /*Tables*/
 table {
-    width: 120%;
+    width: 100%;
 }
 
 table tr th {
@@ -90,7 +90,7 @@ table tr th {
 
 /*modal*/
 .modal {
-    max-width: 850px;
+    max-width: 800px;
     min-width: 250px;
     width: auto;
 }
